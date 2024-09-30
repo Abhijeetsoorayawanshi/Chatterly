@@ -6,7 +6,6 @@ faiss-cpu
 streamlit-extras==0.4.7
 transformers
 sentence-transformers
-altair==4.2.2
-click==8.0.0
+
 
 
